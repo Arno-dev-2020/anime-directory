@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.63.0",
+    "graphql": "^16.10.0",
+    "graphql-request": "^7.1.2",
+    "react-router-dom": "^7.1.1"
+  }
+}
